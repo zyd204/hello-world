@@ -1,0 +1,9 @@
+CMSC100 21551 2 Distance-Learning Janet Joy
+CMSC100 22352 2 SW217 Gloria Barron	 
+CMSC100 22953 2 Distance-Learning Janet Joy
+CMSC110 21554 3 SC451 Rabiha Kayed
+CMSC110 20455 3 HT300 Madhvi Shah 	
+CMSC110 23356 3 SC451 Sascha Simkanich 	
+CMSC110 21557 3 Distance-Learning Janet Joy
+CMSC110 21558 3 SC451 Behzad Maghami
+CMSC110 21559 3 SC450 Behzad Maghami
